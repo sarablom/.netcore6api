@@ -1,4 +1,4 @@
-using CityInfo.Api.Controllers.Models;
+using CityInfo.Api.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
 
