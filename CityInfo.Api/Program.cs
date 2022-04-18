@@ -9,7 +9,7 @@ builder.Services.AddControllers(options =>
 {
     options.ReturnHttpNotAcceptable = true;
     //Allow XML to be returned as well as JSON.
-}).AddXmlDataContractSerializerFormatters();
+}).AddNewtonsoftJson().AddXmlDataContractSerializerFormatters();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
