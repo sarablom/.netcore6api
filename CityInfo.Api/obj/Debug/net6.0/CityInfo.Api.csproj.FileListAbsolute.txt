@@ -25,3 +25,4 @@ C:\Users\handy\CSharp\CityInfo\CityInfo.Api\obj\Debug\net6.0\refint\CityInfo.Api
 C:\Users\handy\CSharp\CityInfo\CityInfo.Api\obj\Debug\net6.0\CityInfo.Api.pdb
 C:\Users\handy\CSharp\CityInfo\CityInfo.Api\obj\Debug\net6.0\CityInfo.Api.genruntimeconfig.cache
 C:\Users\handy\CSharp\CityInfo\CityInfo.Api\obj\Debug\net6.0\ref\CityInfo.Api.dll
+C:\Users\handy\CSharp\CityInfo\CityInfo.Api\bin\Debug\net6.0\Git+&+Github+Course_+Merging.pdf
